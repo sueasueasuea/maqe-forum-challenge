@@ -1,0 +1,13 @@
+.BlogCard:nth-child(even) {
+  background: #ccecff;
+}
+.BlogCard:nth-child(odd) {
+  background: white;
+}
+.BlogCard:nth-child(odd) .Divider {
+  background: #eaeaea;
+}
+
+.BlogCard:nth-child(even) .Divider {
+  background: #bfdaea;
+}
